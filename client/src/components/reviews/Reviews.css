@@ -1,0 +1,8 @@
+.review-page-image {
+    height: 500px;
+    border: 1px solid gold;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    margin-top: 10px;
+}
